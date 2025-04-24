@@ -11,7 +11,7 @@ Sistema backend para gerenciamento de drones, pilotos e competições, construí
 - Django REST Framework
 - Django Filter
 - Token Authentication
-- SQLite (ou outro banco compatível)
+- SQLite
 - Django Admin personalizado
 
 ---
@@ -93,6 +93,3 @@ Edição inline de categoria e status de publicação.
 Desenvolvido por Delano Sarmento
 📧 delanosarmento1@gmail.com
 📱 +55 (71)99309-9382
-
-📌 Licença
-Este projeto está licenciado sob os termos da licença MIT.
