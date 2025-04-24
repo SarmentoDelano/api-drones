@@ -1,0 +1,61 @@
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Dependências e caches
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Arquivos de log
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração pessoais
+*.env
+*.ini
+*.local
+*.bak
+
+# Banco de dados local
+*.sqlite3
+db.sqlite3
+
+# Arquivos de testes temporários
+htmlcov/
+coverage/
+.tox/
+.nox/
+.pytest_cache/
+.cache/
+
+# Arquivos de migração antigos (opcional se usa versionamento separado)
+**/migrations/*.pyc
+**/migrations/__pycache__/
+**/migrations/*.py~
+
+# Arquivos de lock e output
+*.lock
+*.log
+*.out
+
+# Docker e outros serviços (opcional)
+docker-compose.override.yml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
