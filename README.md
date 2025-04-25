@@ -71,10 +71,8 @@ python manage.py runserver
 ```
 
 A API estará disponível em: http://127.0.0.1:8000/
-```
 
 ---
-
 
 ## 🔐 Autenticação
 
@@ -174,7 +172,5 @@ Testes disponíveis para:
 Desenvolvido por **Delano Sarmento**  
 📧 delanosarmento1@gmail.com  
 📱 +55 (71) 99309-9382
-
----
 
 ---
