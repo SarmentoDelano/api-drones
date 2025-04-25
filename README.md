@@ -9,19 +9,19 @@ Uma API desenvolvida com Django REST Framework para gerenciar drones, categorias
 
 A API fornece funcionalidades para:
 
-### ✅ Gerenciar Drones:
+## ✅ Gerenciar Drones:
 - Criar, visualizar, atualizar e excluir drones.
 - Associar imagens, datas de fabricação e categorias.
 - Controlar status de publicação e participação em competições.
 
-### 🛫 Gerenciar Categorias:
+## 🛫 Gerenciar Categorias:
 - Criar e listar categorias de drones.
 
-### 🧍 Gerenciar Pilotos:
+## 🧍 Gerenciar Pilotos:
 - Criar, visualizar, atualizar e excluir pilotos.
 - Registrar gênero e número de corridas realizadas.
 
-### 🏁 Gerenciar Competições:
+## 🏁 Gerenciar Competições:
 - Registrar competições entre drones e pilotos.
 - Filtrar por data e distância alcançada.
 
