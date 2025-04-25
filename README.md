@@ -1,4 +1,3 @@
-```markdown
 # 🚁 API de Gerenciamento de Drones
 
 Uma API desenvolvida com Django REST Framework para gerenciar drones, categorias, pilotos e competições, permitindo o controle eficiente de dados e funcionalidades relacionadas ao universo de corridas com drones.
