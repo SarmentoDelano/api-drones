@@ -1,7 +1,3 @@
-Perfeito! Aqui está o `README.md` para sua **API de Drones**, no **mesmo estilo** do seu projeto de eventos, com a seção de **endpoints formatada como na imagem** (tabelas organizadas por recurso):
-
----
-
 ```markdown
 # 🚁 API de Gerenciamento de Drones
 
