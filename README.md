@@ -9,19 +9,19 @@ Uma API desenvolvida com Django REST Framework para gerenciar drones, categorias
 
 A API fornece funcionalidades para:
 
-## ✅ Gerenciar Drones:
+### ✅ Gerenciar Drones
 - Criar, visualizar, atualizar e excluir drones.
 - Associar imagens, datas de fabricação e categorias.
 - Controlar status de publicação e participação em competições.
 
-## 🛫 Gerenciar Categorias:
+### 📦 Gerenciar Categorias
 - Criar e listar categorias de drones.
 
-## 🧍 Gerenciar Pilotos:
+### 🧍 Gerenciar Pilotos
 - Criar, visualizar, atualizar e excluir pilotos.
 - Registrar gênero e número de corridas realizadas.
 
-## 🏁 Gerenciar Competições:
+### 🏁 Gerenciar Competições
 - Registrar competições entre drones e pilotos.
 - Filtrar por data e distância alcançada.
 
@@ -29,45 +29,53 @@ A API fornece funcionalidades para:
 
 ## ⚙️ Tecnologias Utilizadas
 
-- **Python**: Linguagem de programação principal.
-- **Django**: Framework web completo.
-- **Django REST Framework (DRF)**: Criação da API RESTful.
-- **SQLite**: Banco de dados padrão para desenvolvimento.
-- **Django Filters, Token Auth, Admin Customizado**
+- **Python**: Linguagem de programação principal.  
+- **Django**: Framework web completo.  
+- **Django REST Framework (DRF)**: Criação da API RESTful.  
+- **SQLite**: Banco de dados padrão para desenvolvimento.  
+- **Django Filters**, **Token Auth**, **Admin Customizado**
 
 ---
 
-## 💻 Configuração do Ambiente
+## 🛠️ Configuração do Ambiente
 
 ### 1. Pré-requisitos
+
 - Python 3.11+
 - Pip ou Pipenv
 - Git
 
 ### 2. Clonar o repositório
+
 ```bash
 git clone https://github.com/SeuUsuario/api-drones.git
 cd api-drones
 ```
 
 ### 3. Instalar dependências
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 4. Executar migrações
+
 ```bash
 python manage.py makemigrations
 python manage.py migrate
 ```
 
 ### 5. Rodar o servidor
+
 ```bash
 python manage.py runserver
 ```
+
 A API estará disponível em: http://127.0.0.1:8000/
+```
 
 ---
+
 
 ## 🔐 Autenticação
 
